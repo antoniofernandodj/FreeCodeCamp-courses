@@ -6,4 +6,4 @@ In this course, learned the best practices for building webpages that the user i
 3. interactable, and
 4. accessible.
 ---
-All this points thinking to everyone, including people with visual, auditory, mobility, or cognitive disabilities
+All this points thinking of everyone, including people with visual, auditory, mobility, or cognitive disabilities
